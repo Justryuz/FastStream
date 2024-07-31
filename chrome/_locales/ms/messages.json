@@ -907,25 +907,25 @@
         "message": "These patterns are used to detect custom video sources on webpages. They are applied in order, and the first match is used. For advanced users only."
     },
     "options_help_header": {
-        "message": "Help"
+        "message": "Bantuan"
     },
     "options_help_welcome": {
-        "message": "Welcome Page"
+        "message": "Halaman Selamat Datang"
     },
     "options_help_issues": {
         "message": "Issue Tracker"
     },
     "subtitles_settings_fontFamily": {
-        "message": "Font Family"
+        "message": "Keluarga Tulisan"
     },
     "subtitles_settings_fontWeight": {
         "message": "Font Weight"
     },
     "subtitles_settings_fontSize": {
-        "message": "Font Size"
+        "message": "Saiz Tulisan"
     },
     "subtitles_settings_color": {
-        "message": "Font Color"
+        "message": "Warna Tulisan"
     },
     "subtitles_settings_background": {
         "message": "Background Color"
@@ -937,6 +937,6 @@
         "message": "Outline Width"
     },
     "subtitles_settings_defaultLanguage": {
-        "message": "Language"
+        "message": "Bahasa"
     }
 }
